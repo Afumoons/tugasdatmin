@@ -1,3 +1,3 @@
 # Tugas Data Mining Menggunakan Bahasa python
 
-# Week 6
+# Week 7 Classification Problem
